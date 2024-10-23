@@ -1,0 +1,7 @@
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab01\Example_Lab01\Example_Lab01\bin\Debug\Example_Lab01.exe.config
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab01\Example_Lab01\Example_Lab01\bin\Debug\Example_Lab01.exe
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab01\Example_Lab01\Example_Lab01\bin\Debug\Example_Lab01.pdb
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab01\Example_Lab01\Example_Lab01\obj\Debug\Example_Lab01.csproj.AssemblyReference.cache
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab01\Example_Lab01\Example_Lab01\obj\Debug\Example_Lab01.csproj.CoreCompileInputs.cache
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab01\Example_Lab01\Example_Lab01\obj\Debug\Example_Lab01.exe
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab01\Example_Lab01\Example_Lab01\obj\Debug\Example_Lab01.pdb

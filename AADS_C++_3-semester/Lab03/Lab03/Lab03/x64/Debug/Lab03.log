@@ -1,0 +1,4 @@
+﻿  Lab03.cpp
+D:\My page\УНИК\2 курс\1 сем\АИСД\Lab03\Lab03\Lab03\Lab03.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\My page\УНИК\2 курс\1 сем\АИСД\Lab03\Lab03\Lab03\Lab03.cpp(10,9): warning C4101: start: неиспользованная локальная переменная
+  Lab03.vcxproj -> D:\My page\УНИК\2 курс\1 сем\АИСД\Lab03\Lab03\x64\Debug\Lab03.exe

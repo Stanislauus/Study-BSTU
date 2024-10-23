@@ -1,0 +1,7 @@
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Lab02\bin\Debug\Lab02.exe.config
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Lab02\bin\Debug\Lab02.exe
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Lab02\bin\Debug\Lab02.pdb
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Lab02\obj\Debug\Lab02.exe
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Lab02\obj\Debug\Lab02.pdb

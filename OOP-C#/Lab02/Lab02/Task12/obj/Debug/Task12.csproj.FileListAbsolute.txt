@@ -1,0 +1,7 @@
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Task12\bin\Debug\Task12.exe.config
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Task12\bin\Debug\Task12.exe
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Task12\bin\Debug\Task12.pdb
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Task12\obj\Debug\Task12.csproj.AssemblyReference.cache
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Task12\obj\Debug\Task12.csproj.CoreCompileInputs.cache
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Task12\obj\Debug\Task12.exe
+D:\My page\УНИК\2 курс\1 сем\ООП\Lab02\Lab02\Task12\obj\Debug\Task12.pdb

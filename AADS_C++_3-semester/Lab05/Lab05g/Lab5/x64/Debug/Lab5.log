@@ -1,0 +1,4 @@
+﻿  Lab5.cpp
+D:\my proj02\АИСД 2 курс\Lab05\Lab5\Lab5.cpp(80,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\my proj02\АИСД 2 курс\Lab05\Lab5\Lab5.cpp(81,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab5.vcxproj -> D:\my proj02\АИСД 2 курс\Lab05\x64\Debug\Lab5.exe
