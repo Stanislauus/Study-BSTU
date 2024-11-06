@@ -1,0 +1,7 @@
+D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe.config
+D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe
+D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab03\Lab03\Lab03\bin\Debug\Lab03.pdb
+D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab03\Lab03\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab03\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab03\Lab03\Lab03\obj\Debug\Lab03.exe
+D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab03\Lab03\Lab03\obj\Debug\Lab03.pdb

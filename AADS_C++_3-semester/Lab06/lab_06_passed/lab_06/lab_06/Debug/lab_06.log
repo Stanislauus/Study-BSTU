@@ -1,0 +1,5 @@
+﻿  lab_06.cpp
+C:\Users\chere\OneDrive\Рабочий стол\University\3 сем\аисд\lab_06\lab_06\lab_06\lab_06.cpp(67,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chere\OneDrive\Рабочий стол\University\3 сем\аисд\lab_06\lab_06\lab_06\lab_06.cpp(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chere\OneDrive\Рабочий стол\University\3 сем\аисд\lab_06\lab_06\lab_06\lab_06.cpp(110,27): warning C4018: <: несоответствие типов со знаком и без знака
+  lab_06.vcxproj -> C:\Users\chere\OneDrive\Рабочий стол\University\3 сем\аисд\lab_06\lab_06\Debug\lab_06.exe
