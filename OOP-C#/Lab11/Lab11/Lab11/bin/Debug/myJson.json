@@ -1,0 +1,35 @@
+{
+  "ClassName": "Lab11.MyClass",
+  "AssemblyName": "Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "HasPublicConstructors": true,
+  "PublicMethods": [
+    "MyMethod",
+    "get_MyName",
+    "set_MyName",
+    "AnotherMethodWhithValue",
+    "AnotherMethod",
+    "ShowInfo",
+    "Equals",
+    "GetHashCode",
+    "GetType",
+    "ToString"
+  ],
+  "FieldsAndProperties": [
+    "Field: myAge",
+    "Property: MyName"
+  ],
+  "Interfaces": [
+    "Lab11.IMyClass"
+  ],
+  "MethodsWithParameterType": [
+    "AnotherMethodWhithValue"
+  ],
+  "MethodWithParameterValue": [
+    {
+      "Method": "AnotherMethodWhithValue",
+      "Parameters": {
+        "value": 23
+      }
+    }
+  ]
+}
