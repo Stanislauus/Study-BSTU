@@ -1,0 +1,27 @@
+Список файлов и папок:
+Директория: C:$RECYCLE.BIN
+Директория: C:$WINDOWS.~BT
+Директория: C:$Windows.~WS
+Директория: C:AMD
+Директория: C:Config.Msi
+Директория: C:Documents and Settings
+Директория: C:ESD
+Директория: C:Microsoft
+Директория: C:My page
+Директория: C:NVIDIA
+Директория: C:OneDriveTemp
+Директория: C:PerfLogs
+Директория: C:Program Files
+Директория: C:Program Files (x86)
+Директория: C:ProgramData
+Директория: C:Recovery
+Директория: C:System Volume Information
+Директория: C:Users
+Директория: C:Windows
+Директория: C:winKsisAnsw
+Файл: C:$WINRE_BACKUP_PARTITION.MARKER
+Файл: C:appverifUI.dll
+Файл: C:DumpStack.log.tmp
+Файл: C:hiberfil.sys
+Файл: C:swapfile.sys
+Файл: C:vfcompat.dll

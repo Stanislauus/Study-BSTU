@@ -1,0 +1,15 @@
+22.12.2024 17:44:59 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 17:45:24 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 17:45:41 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 19:24:46 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 19:27:08 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 19:28:55 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 19:30:16 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 19:32:13 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 19:36:12 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 22:12:48 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 22:13:54 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 22:14:31 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 22:18:29 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 22:24:37 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt
+22.12.2024 22:55:48 | Action: File Created | Details: D:\My_page\УНИК\2 курс\1 сем\OOP C#\Lab12\Lab12\Lab12\bin\Debug\ssslogfile.txt

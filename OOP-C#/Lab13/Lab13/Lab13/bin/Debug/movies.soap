@@ -1,0 +1,21 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:Movie[3]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab13/Lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+</SOAP-ENC:Array>
+<a1:Movie id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab13/Lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<TVProgram_x002B__x003C_Title_x003E_k__BackingField id="ref-6">Movie 1</TVProgram_x002B__x003C_Title_x003E_k__BackingField>
+<TVProgram_x002B__x003C_Duration_x003E_k__BackingField>120</TVProgram_x002B__x003C_Duration_x003E_k__BackingField>
+</a1:Movie>
+<a1:Movie id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab13/Lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<TVProgram_x002B__x003C_Title_x003E_k__BackingField id="ref-7">Movie 2</TVProgram_x002B__x003C_Title_x003E_k__BackingField>
+<TVProgram_x002B__x003C_Duration_x003E_k__BackingField>150</TVProgram_x002B__x003C_Duration_x003E_k__BackingField>
+</a1:Movie>
+<a1:Movie id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab13/Lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<TVProgram_x002B__x003C_Title_x003E_k__BackingField id="ref-8">Movie 3</TVProgram_x002B__x003C_Title_x003E_k__BackingField>
+<TVProgram_x002B__x003C_Duration_x003E_k__BackingField>90</TVProgram_x002B__x003C_Duration_x003E_k__BackingField>
+</a1:Movie>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

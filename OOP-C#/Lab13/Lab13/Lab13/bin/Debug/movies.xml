@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <Duration>120</Duration>
+  </Movie>
+  <Movie>
+    <Duration>150</Duration>
+  </Movie>
+  <Movie>
+    <Duration>90</Duration>
+  </Movie>
+</ArrayOfMovie>
