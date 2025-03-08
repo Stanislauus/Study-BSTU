@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="NetW">
+  <id>5d9d908e-a19c-4af4-9cc3-046f2d751ddf</id>
+  <name>Ivan</name>
+  <surname>Ivanov</surname>
+  <age>24</age>
+  <type>N</type>
+  <roles>
+    <role>
+      <Id>32c798d7-9ab2-41e0-8be2-5dffd101c0b5</Id>
+      <Name>User</Name>
+    </role>
+  </roles>
+</user>

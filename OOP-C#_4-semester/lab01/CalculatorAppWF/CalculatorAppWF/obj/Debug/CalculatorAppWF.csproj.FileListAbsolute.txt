@@ -1,0 +1,10 @@
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\CalculatorAppWF\bin\Debug\CalculatorAppWF.exe.config
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\CalculatorAppWF\bin\Debug\CalculatorAppWF.exe
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\CalculatorAppWF\bin\Debug\CalculatorAppWF.pdb
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\CalculatorAppWF\obj\Debug\CalculatorAppWF.csproj.AssemblyReference.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\CalculatorAppWF\obj\Debug\CalculatorAppWF.Properties.Resources.resources
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\CalculatorAppWF\obj\Debug\CalculatorAppWF.csproj.GenerateResource.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\CalculatorAppWF\obj\Debug\CalculatorAppWF.csproj.CoreCompileInputs.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\CalculatorAppWF\obj\Debug\CalculatorAppWF.exe
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\CalculatorAppWF\obj\Debug\CalculatorAppWF.pdb
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\CalculatorAppWF\obj\Debug\CalculatorAppWF.Form1.resources

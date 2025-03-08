@@ -1,0 +1,13 @@
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\bin\Debug\ExampleAppWF.exe.config
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\bin\Debug\ExampleAppWF.exe
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\bin\Debug\ExampleAppWF.pdb
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\obj\Debug\ExampleAppWF.csproj.AssemblyReference.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\obj\Debug\ExampleAppWF.Form1.resources
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\obj\Debug\ExampleAppWF.Properties.Resources.resources
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\obj\Debug\ExampleAppWF.csproj.GenerateResource.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\obj\Debug\ExampleAppWF.csproj.CoreCompileInputs.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\obj\Debug\ExampleAppWF.exe
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\obj\Debug\ExampleAppWF.pdb
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\bin\Debug\Newtonsoft.Json.dll
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\bin\Debug\Newtonsoft.Json.xml
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\ExampleAppWF\obj\Debug\ExampleA.AD5C10A3.Up2Date

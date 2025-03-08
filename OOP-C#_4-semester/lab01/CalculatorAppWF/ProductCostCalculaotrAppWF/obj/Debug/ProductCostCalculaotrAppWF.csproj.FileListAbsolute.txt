@@ -1,0 +1,10 @@
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\ProductCostCalculaotrAppWF\bin\Debug\ProductCostCalculaotrAppWF.exe.config
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\ProductCostCalculaotrAppWF\bin\Debug\ProductCostCalculaotrAppWF.exe
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\ProductCostCalculaotrAppWF\bin\Debug\ProductCostCalculaotrAppWF.pdb
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\ProductCostCalculaotrAppWF\obj\Debug\ProductCostCalculaotrAppWF.csproj.AssemblyReference.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\ProductCostCalculaotrAppWF\obj\Debug\ProductCostCalculaotrAppWF.Form1.resources
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\ProductCostCalculaotrAppWF\obj\Debug\ProductCostCalculaotrAppWF.Properties.Resources.resources
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\ProductCostCalculaotrAppWF\obj\Debug\ProductCostCalculaotrAppWF.csproj.GenerateResource.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\ProductCostCalculaotrAppWF\obj\Debug\ProductCostCalculaotrAppWF.csproj.CoreCompileInputs.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\ProductCostCalculaotrAppWF\obj\Debug\ProductCostCalculaotrAppWF.exe
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab01\CalculatorAppWF\ProductCostCalculaotrAppWF\obj\Debug\ProductCostCalculaotrAppWF.pdb
