@@ -1,0 +1,14 @@
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\bin\Debug\net8.0\Example.exe
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\bin\Debug\net8.0\Example.deps.json
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\bin\Debug\net8.0\Example.runtimeconfig.json
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\bin\Debug\net8.0\Example.dll
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\bin\Debug\net8.0\Example.pdb
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\obj\Debug\net8.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\obj\Debug\net8.0\Example.AssemblyInfoInputs.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\obj\Debug\net8.0\Example.AssemblyInfo.cs
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\obj\Debug\net8.0\Example.csproj.CoreCompileInputs.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\obj\Debug\net8.0\Example.dll
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\obj\Debug\net8.0\refint\Example.dll
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\obj\Debug\net8.0\Example.pdb
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\obj\Debug\net8.0\Example.genruntimeconfig.cache
+D:\My_page\УНИК\2 курс\2 сем\ООП\lab02\ExampleAppWF\Example\obj\Debug\net8.0\ref\Example.dll

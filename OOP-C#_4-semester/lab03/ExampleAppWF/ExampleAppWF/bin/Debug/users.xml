@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <user>
+    <id xmlns="NetW">94077dc0-7d8a-41e5-915c-7cb2ca3d804a</id>
+    <name xmlns="NetW">Ivan</name>
+    <surname xmlns="NetW">Ivanov</surname>
+    <age xmlns="NetW">24</age>
+    <type xmlns="NetW">N</type>
+    <roles xmlns="NetW">
+      <role>
+        <Id>38b3cb26-8284-43f0-aa86-324bcc280867</Id>
+        <Name>User</Name>
+      </role>
+    </roles>
+  </user>
+  <user>
+    <id xmlns="NetW">8b60e4a5-5990-4053-baf8-a954aad6206a</id>
+    <name xmlns="NetW">Nikita</name>
+    <surname xmlns="NetW">Nikolaev</surname>
+    <age xmlns="NetW">24</age>
+    <type xmlns="NetW">N</type>
+    <roles xmlns="NetW">
+      <role>
+        <Id>38b3cb26-8284-43f0-aa86-324bcc280867</Id>
+        <Name>User</Name>
+      </role>
+    </roles>
+  </user>
+</ArrayOfUser>

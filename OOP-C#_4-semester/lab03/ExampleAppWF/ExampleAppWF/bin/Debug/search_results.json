@@ -1,0 +1,58 @@
+[
+  {
+    "CourseName": "Курс C++",
+    "AudienceAge": 18,
+    "Difficulty": null,
+    "Lectures": 0,
+    "Labs": 0,
+    "ControlType": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "Teacher": {
+      "FullName": "DDD",
+      "Department": null
+    },
+    "LiteratureList": null
+  },
+  {
+    "CourseName": "Курс C",
+    "AudienceAge": 18,
+    "Difficulty": null,
+    "Lectures": 0,
+    "Labs": 0,
+    "ControlType": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "Teacher": {
+      "FullName": "DDD",
+      "Department": null
+    },
+    "LiteratureList": null
+  },
+  {
+    "CourseName": "F#",
+    "AudienceAge": 25,
+    "Difficulty": null,
+    "Lectures": 0,
+    "Labs": 0,
+    "ControlType": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "Teacher": {
+      "FullName": "",
+      "Department": null
+    },
+    "LiteratureList": null
+  },
+  {
+    "CourseName": "С#",
+    "AudienceAge": 25,
+    "Difficulty": null,
+    "Lectures": 0,
+    "Labs": 0,
+    "ControlType": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "Teacher": {
+      "FullName": "SSS",
+      "Department": null
+    },
+    "LiteratureList": null
+  }
+]

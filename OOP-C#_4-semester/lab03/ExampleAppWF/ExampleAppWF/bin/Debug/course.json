@@ -1,0 +1,58 @@
+[
+  {
+    "CourseName": "F#",
+    "AudienceAge": 25,
+    "Difficulty": "",
+    "Lectures": 0,
+    "Labs": 0,
+    "ControlType": "Экзамен",
+    "StartDate": "2025-03-26T14:55:24.1768545+03:00",
+    "Teacher": {
+      "FullName": "",
+      "Department": ""
+    },
+    "LiteratureList": []
+  },
+  {
+    "CourseName": "С#",
+    "AudienceAge": 25,
+    "Difficulty": "",
+    "Lectures": 11,
+    "Labs": 12,
+    "ControlType": "Экзамен",
+    "StartDate": "2025-05-02T14:55:24",
+    "Teacher": {
+      "FullName": "SSS",
+      "Department": ""
+    },
+    "LiteratureList": []
+  },
+  {
+    "CourseName": "Курс C++",
+    "AudienceAge": 18,
+    "Difficulty": "",
+    "Lectures": 20,
+    "Labs": 20,
+    "ControlType": "Экзамен",
+    "StartDate": "2025-04-23T13:21:34",
+    "Teacher": {
+      "FullName": "DDD",
+      "Department": ""
+    },
+    "LiteratureList": []
+  },
+  {
+    "CourseName": "Курс C",
+    "AudienceAge": 18,
+    "Difficulty": "",
+    "Lectures": 20,
+    "Labs": 20,
+    "ControlType": "Экзамен",
+    "StartDate": "2025-04-23T13:21:34",
+    "Teacher": {
+      "FullName": "DDD",
+      "Department": ""
+    },
+    "LiteratureList": []
+  }
+]
